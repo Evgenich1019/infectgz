@@ -1,0 +1,5 @@
+{
+  "name": "Infection.io",
+  "description": "A survival horror tag game. Navigate a procedural maze in the dark. Avoid the infected or hunt the survivors.",
+  "requestFramePermissions": []
+}
